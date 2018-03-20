@@ -1,8 +1,9 @@
 # KubernetesInstaller
 Simple and Working Kubernetes Installer
-## For all
+## For all Nodes
 
-*** On Ubuntu 16.04
+Tested on Ubuntu 16.04
+
 ```
 sudo apt-get install \
     apt-transport-https \
